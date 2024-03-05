@@ -1,7 +1,7 @@
 # Student Grade Determination Analysis 📊📈👀
 
 This repository contains the code and analysis for a study aimed at determining the socio-demographic factors that influence the grades of students in secondary school math courses. The dataset used in this analysis was obtained from Kaggle and includes a rich set of socio-demographic, gender, and study-related information about the students.
-
+![image](https://github.com/Dulajay/Student-Grade-Determination-Analysis/assets/151004273/46e3b2c5-fa69-409a-8bf5-3b69cbfbd90e)
 ## Kaggle Dataset
 
 The dataset, sourced from Kaggle, can be found [here](https://www.kaggle.com/datasets/alejandraalvarado/student-mat). Please place the CSV file in the `data/` directory before running the analysis.
@@ -38,6 +38,9 @@ The dataset, sourced from Kaggle, can be found [here](https://www.kaggle.com/dat
 ## Results and Analysis
 
 The Random Forest model demonstrated performance in predicting student grades. Detailed results and analysis can be found in the Jupyter notebooks located in the `notebooks/` directory.
+
+![feature_importance_plot_rainbow](https://github.com/Dulajay/Student-Grade-Determination-Analysis/assets/151004273/519cabdf-ba70-4118-a637-e2b54e2ce9be)
+
 
 ## Conclusion
 
